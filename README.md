@@ -1,6 +1,6 @@
 # 🧠 UOE_CVML – Computer Vision & Machine Learning Coursework
 
-This repository presents coursework projects completed as part of the ECMM426 (Computer Vision) and ECMM422 (Machine Learning) modules at the University of Edinburgh. It includes detailed, hands-on Jupyter notebooks demonstrating the practical application of both CV and ML techniques using real data and Python.
+This repository presents coursework projects completed as part of the ECMM426 (Computer Vision) and ECMM422 (Machine Learning) modules at the University of Exeter. It includes detailed, hands-on Jupyter notebooks demonstrating the practical application of both CV and ML techniques using real data and Python.
 
 ---
 
@@ -80,4 +80,4 @@ UOE_CVML/
 ## 📬 Contact
 
 Created by [@mihirm3hub](https://github.com/mihirm3hub)  
-Coursework for ECMM426 (CV) & ECMM422 (ML) – University of Edinburgh
+Coursework for ECMM426 (CV) & ECMM422 (ML) – University of Exeter
