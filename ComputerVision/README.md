@@ -93,9 +93,9 @@ The `ComputerVision/` folder features two main notebooks:
 
 ---
 
-## 📷 Example Output (Suggested Additions)
+## 📷 Example Output
 
-Consider adding sample figures like:
+figures
 - Original vs. filtered image
 - Edge detection results
 - YOLOv8 detection bounding boxes
